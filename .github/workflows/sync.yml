@@ -16,4 +16,4 @@ jobs:
       - name: GitHub Action
         uses: readmeio/rdme@v8
         with:
-          rdme: openapi apispec.json --key=rdme_xn8s9h3bae054946fb53d0dc60f94e385a0ccabaf8846abe81cabf95a6b6ae67ecf73e --id=66cedbd06c0ce20011e49a9e
+          rdme: openapi apispec.json --key=rdme_xn8s9ha8fff0541bd171cb16fa351cd43c92ccc73786f1ec66aeecd4ed97820b2d274c --id=66cedbd06c0ce20011e49a9e
